@@ -46,7 +46,7 @@ Linkedin: [https://www.linkedin.com/in/muhammed-golec-b55756119/] <br/>
 Github: [https://github.com/Muhammed1616]() 
 
 **Dr. Sukhpal Singh Gill** <br/> 
-mail: *rdvan1994@gmail.com* <br/>
+mail: *s.s.gill@qmul.ac.uk* <br/>
 Linkedin: [https://www.linkedin.com/in/iamssgill/] <br/>
 Github: [https://github.com/iamssgill]()
 
