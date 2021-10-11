@@ -10,6 +10,9 @@ Model for Recording Virtual Machine Migration in Cloud Federations -->
 # BlockchainBus
 BlockchainBus: A Lightweight Framework for Secure VirtualMachine Migration in Cloud Federations using Blockchain
 
+
+In this study, a secure Virtual Machine transition is presented in Cloud Federations using blockchain technology. To achieve this, a lightweight framework called BlockchainBus is proposed. For more details, please refer to the related article.
+
 ![OverallSystem-1](https://user-images.githubusercontent.com/61287653/136814948-76bf2666-c3b3-4491-b2af-735918da2309.png)
 
 
