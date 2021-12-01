@@ -36,6 +36,10 @@ Warning: The copyright of the shared work is reserved. Reference should be cite 
 To cite:
 @article{doyle_golec_gill_2021, title={BlockchainBus : A lightweight framework for secure virtual machine migration in cloud federations using blockchain}, DOI={10.1002/spy2.197}, journal={Security and Privacy}, author={Doyle, Joseph and Golec, Muhammed and Gill, Sukhpal Singh}, year={2021}}
 
+OR
+
+Doyle, J., Golec, M. and Gill, S., 2021. BlockchainBus : A lightweight framework for secure virtual machine migration in cloud federations using blockchain. Security and Privacy,.
+
 # Developer:
 
 **Dr. Joseph Doyle** <br/> 
